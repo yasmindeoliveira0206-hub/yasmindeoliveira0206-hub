@@ -1,45 +1,33 @@
-# Yasmin-Oliveira
+# Hi, I'm Yasmin Oliveira 
 
-## Olá! 
+Business Intelligence Analyst focused on transforming operational data into strategic insights.
 
-Me chamo Yasmin Oliveira e sou apaixonada por dados e otimização de processos.
+*Transforming operational data into actionable insights for SLA monitoring, optimization and decision-making.*
 
-Atuo com Business Intelligence e análise de dados, transformando informações operacionais em insights estratégicos que geram eficiência e redução de custos.
+### Skills
+- SQL
+- Python
+- Power BI
+- Excel
+- Data Modeling
+- ETL & Data Automation
 
-Tenho experiência com:
-- SQL (consultas e modelagem de dados)
-- Python (automação e análise)
-- Power BI (dashboards e KPIs)
-- Excel avançado
+### Featured Projects
+Sales Performance Dashboard
+Business Management Analytics
+Market & Business Intelligence
+Statistical Analysis & Insights
+Data Cleaning, Transformation & Preparation
+KPI Monitoring
+Process Automation
 
-Trabalho com análise de dados, automação de processos e integração de informações para apoiar a tomada de decisão baseada em dados.
-
-Busco sempre identificar padrões, oportunidades de melhoria e gerar impacto real no negócio através de dados.
-
----
-
-### O que você vai encontrar aqui:
-- Projetos de análise de dados
-- Dashboards e KPIs
-- Automações em Python
-- Estudos e experimentos de BI
-
----
-
-### Vamos nos conectar?
-
-- LinkedIn: www.linkedin.com/in/yasmin-oliveira-89bb74136
-- E-mail: yasmindeoliveira0206@gmail.com
-``
-
-### Linguagens e Ferramentas:
-Python - SQL - Git - Github - Anaconda - PowerBI - DAX - Figma - Powershell
+### Contact
+LinkedIn: www.linkedin.com/in/yasmin-oliveira-89bb74136
+Email: yasmindeoliveira0206@gmail.com
 
 
 ## 💻 Tecnologias
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgres,mysql,git,github,vscode,azure,figma,notion,powershell&perline=6" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,postgres,mysql,git,github,vscode,azure,figma,powerbi,notion,powershell&perline=6" />
 </p>
-``
-
