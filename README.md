@@ -5,15 +5,10 @@ Business Intelligence Analyst focused on transforming operational data into stra
 *Transforming operational data into actionable insights for SLA monitoring, optimization and decision-making.*
 
 ### Skills
-- SQL
-- Python
-- Power BI
-- DAX
-- Excel
-- Data Modeling
-- ETL & Data Automation
-- KPI Development
-- Dashboard Design
+- SQL       - Python       - Power BI
+- DAX       - Excel        - Data Modeling
+- ETL & Data Automation    - KPI Development
+- Dashboard Design         - Business Intelligence
 
 ### Featured Projects
 Sales Performance Dashboard
@@ -44,12 +39,9 @@ Analista de Business Intelligence apaixonada por transformar dados em insights e
 
 ## Habilidades
 
-* SQL
-* Python
-* Power BI
-* DAX
-* Excel Avançado
-* Modelagem de Dados
+* SQL       * Python      * Power BI
+* DAX       * Excel Avançado
+* Modelagem de Dados  
 * ETL e Automação de Processos
 * Desenvolvimento de KPIs
 * Design de Dashboards
